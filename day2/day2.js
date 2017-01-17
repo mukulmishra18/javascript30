@@ -17,4 +17,4 @@ function setDate() {
 	hourHand.style.transform = `rotate(${hourDegree}deg)`;
 }
 
-setInterval(setDate, 1000);
+setInterval(setDate, 1000
